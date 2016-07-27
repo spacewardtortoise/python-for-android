@@ -1,5 +1,5 @@
 # python-for-android
-# adding a comment
+# adding a comment and again
 
 python-for-android is a packager for Python apps on Android. You can
 create your own Python distribution including the modules and
